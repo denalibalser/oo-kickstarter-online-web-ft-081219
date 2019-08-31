@@ -1,6 +1,6 @@
-class Project 
+class Project
 
   def initialize
     @backers = []
   end 
-end 
+end
